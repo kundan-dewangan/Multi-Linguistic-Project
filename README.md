@@ -13,3 +13,13 @@ In the project directory, you can run:
 ### https://github.com/i18next/i18next-browser-languageDetector
 ### https://github.com/i18next/i18next-http-backend
 
+#### Images
+<div style="display: flex">
+
+<img src="/public/assets/img/first.png" height="400" width="auto">
+
+<img src="/public/assets/img/second.png" height="400" width="auto">
+
+<img src="/public/assets/img/third.png" height="400" width="auto">
+
+</div>

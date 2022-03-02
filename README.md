@@ -16,10 +16,10 @@ In the project directory, you can run:
 ## Images
 <div style="display: flex">
 
-<img src="/public/assets/img/first.png" height="200" width="200">
+<img src="/public/assets/img/first.png" height="400" width="auto">
 
-<img src="/public/assets/img/second.png" height="200" width="200">
+<img src="/public/assets/img/second.png" height="400" width="auto">
 
-<img src="/public/assets/img/third.png" height="200" width="200">
+<img src="/public/assets/img/third.png" height="400" width="auto">
 
 </div>
